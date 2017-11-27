@@ -1,17 +1,13 @@
-# Breather
+# Elementos de Navegación
 
-+ Navegación global
+### Breather
++ Site oficial: https://breather.com.
++ Identificando elementos de navegación en [Breather](breather.md).
 
-![Global 1](assets/docs/breathe/global1.png)
+### Github
++ Site oficial: https://github.com/.
++ Identificando elementos de navegación en [Github](github.md).
 
-Cuando se selecciona la opción __*MENU*__, se visualiza una nueva navegación global:
-
-![Global 2](assets/docs/breathe/global2.jpg)
-
-# Github
-
-+  Navegación global
-
-![Global](assets/docs/github/global1.jpg)
-
-# Medium
+### Medium
++ Site oficial: https://medium.com/.
++ Identificando elementos de navegación en [Medium](medium.md).
